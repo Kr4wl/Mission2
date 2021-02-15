@@ -1,2 +1,2 @@
-# gitTD3
-TD3 repository
+# Mission3
+TD/TP3 Gestion d'applications complexes Mission 2 : Pull requests
